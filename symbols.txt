@@ -1,0 +1,18 @@
+for all - &forall
+parrial differential - &part
+there exist - &exist
+elements of - &isin
+sigma - &sum
+alpha - &alpha
+betta - &betta
+gamma - &gamma
+
+for name we give name - &name
+for number we give number - &number
+
+indian ruppe - &#8377
+bitcon sign is - &#8383
+euro currecncy - &#8352
+
+
+
