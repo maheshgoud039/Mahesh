@@ -1,0 +1,10 @@
+syntax
+
+how should we have to write code in css
+
+selector {
+property1 : value;  
+property2 : value;
+property3 : value;
+
+}
