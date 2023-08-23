@@ -1,0 +1,20 @@
+we have a different type of selectors in that first one is simple selectors
+with id
+#id1{
+    prop : value;
+}
+
+with class
+
+.class1{
+    prop : value;
+}
+
+*{
+    prop : value;
+}
+
+select only p element with classname = class1
+ p.class1{
+    prop : value;
+ }
